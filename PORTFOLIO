@@ -1,0 +1,80 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mary Lalaine's Portfolio</title>
+  <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+  <header>
+    <h1>Mary Lalaine A. Saludes</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a working students that is willing to learn and to explore more about this 
+      coding industry for me to use in the future.
+    </p>
+    <img src="Mary.jpeg" alt="Your Profile Picture">
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project-container">
+      <div class="project">
+        <img src="20241117_213749.jpg" alt="Project 1">
+        <h3>[Working]</h3>
+        <p>
+          I am working as a service crew ath this one fast food chain.
+        </p>
+      </div>
+      <div class="project">
+        <img src="20240927_082210.jpg" alt="Project 2">
+        <h3>[Student]</h3>
+        <p>
+          I am also a student from city of Malabon Universitu.
+        </p>
+      </div>
+      <div class="project">
+        <img src="Picsart_24-11-19_19-19-14-821.jpg" alt="Project 3">
+        <h3>[Little Editing]</h3>
+        <p>
+          I do this little editing with my relatives.
+          For them to ise it in their resume
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Little Editing</li>
+      <li>Communication</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>
+      Lalainesaludes151@gmail.com, 09913159061
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; [Mary Lalaine Saludes] [BSIT-3E]</p>
+  </footer>
+
+  <script src="script.js"></script> 
+</body>
+</html>
